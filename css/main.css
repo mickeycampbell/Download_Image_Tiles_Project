@@ -1,0 +1,15 @@
+#map {
+    width: 100%;
+    height: 300px;
+    border: solid 1px gray;
+}
+#search {
+	  display: block;
+	  position: absolute;
+	  z-index: 2;
+	  top: 175px;
+	  left: 75px;
+}
+label {
+    margin-right: 20px;
+}
